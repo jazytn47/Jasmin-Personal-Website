@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+    <meta charset="UTF-8">
+    <title>Jasmin Personal Web</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body></body>
+<h1>Welcome to Jasmin's Personal Web</h1>
+<h1>About Me</h1>
+<p> Hello, I'm Jasmin. I'm passionate about marine biology, conservation, and environmental monitoring.</p>
+<ol>
+    <li>Marine Biology</li>
+    <li>Conservation</li>
+    <li>Environmental Monitoring</li>
+</ol>
+<p class="blue">Find me anytime!</p>
+<a href="https://www.linkedin.com/in/jasmin-townsend-ng-082414268" target="_blank">LinkedIn Profile</a>
+<img src="https://www.expeditions.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fb4bpxrz16gb9%2F3e25b7c0f6494696980e647efad7e351%2Facf2ea20f38e3eebc1d9f94522e5eb63%2Fistock-1370528972.jpg&w=3840&q=75" alt="images of multiple puffins">
+</body>
+</html
